@@ -44,4 +44,4 @@ A pot (potentiometer) controls brightness at any time.
 1. Open `led_heart.ino` in the Arduino IDE.
 2. Select your board and port.
 3. Upload.
-E.md…]()
+
